@@ -24,7 +24,7 @@ This application makes use of the openweathermap API to render a graph that show
 * Middleware are functions that take an action and can determine what is done with that action (whether it passes, is manipulated, logged, or stopped) BEFORE they hit reducers
 * Redux promise is the npm package that will be used to manage middleware and handle AJAX calls in this application
 
-#### Redux Promise
+<!-- #### Redux Promise -->
 
 ### SparkLines
 * Utilized for quickly adding graphs to map weather data onto. 

@@ -33,5 +33,3 @@ This application makes use of the openweathermap API to render a graph that show
 * Comes with the challenge of using a third party library that already 'has an idea' for how to render a component to the DOM
 
 ###### This application was a 'build to learn' project. This document is an outline of some of the concepts and topics reviewed during the building process. 
-
-
